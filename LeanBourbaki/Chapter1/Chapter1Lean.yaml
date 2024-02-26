@@ -1,10 +1,10 @@
 # Chapter 1
 Section 1, Topological Structures:
   Definitions:
-    Definition 1:
-      Name: 'Topological Structure'
-      Declaration: ''
-    Definition 2: 
-      Name: 'Topological Space'
-      Declaration: TopologicalSpace
+    topological structure:
+    - Definition: '1'
+    - Declaration: ''
+    topological space:
+    - Definition: '2'
+    - Declaration: 'TopologicalSpace'
   Results: ''
