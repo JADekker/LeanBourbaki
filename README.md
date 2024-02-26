@@ -12,5 +12,5 @@ In particular, each definition and result in the book is described by a YAML fil
 
 Where possible, the Lean declaration links to a declaration in Mathlib. If the result is currently not in Mathlib, a file ChapterXMissing.lean contains the various Lean declarations, with indications whether they should/should not be upstreamed to Mathlib. 
 
-# The source
+# Source
 N. Bourbaki, Topologie Générale, Chapters 1-4. 
