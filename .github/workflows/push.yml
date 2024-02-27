@@ -44,8 +44,8 @@ jobs:
 
       - name: Check declarations in YAML files
         run: |
-          python3 scripts/yaml_check.py docs/100.yaml docs/overview.yaml docs/undergrad.yaml
-          lake exe checkYaml
+          python3 scripts/yaml_check.py LeanBourbaki/Chapter1.yaml
+          lake exe checkYamlCustom
 
       - name: Cache mathlib docs
         uses: actions/cache@v3
