@@ -1,0 +1,8 @@
+# Chapter 1
+topological structure:
+  title: 'Topological structure'
+  decl: 'TopologicalSpace'
+  comment: 'mathlib doesn't distinguish between topological spaces and topological structures'
+topological space:
+  title: 'Topological space'
+  decl: 'TopologicalSpace'
