@@ -1,8 +1,15 @@
 # Chapter 1
-topological structure:
+## Definitions
+topological structure: # Definition 1.1
   title: 'Topological structure'
   decl: 'TopologicalSpace'
   comment: 'mathlib doesn't distinguish between topological spaces and topological structures'
-topological space:
+topological space: # Definition 1.2
   title: 'Topological space'
   decl: 'TopologicalSpace'
+homeomorphism: # Definition 1.3
+  title: 'Homeomorphism'
+  decl: 'Homeomorph'
+  comment: 'in mathlib, a homeomorphism is an Equiv(alence) in which the underlying functions are
+    continuous'
+## Results
