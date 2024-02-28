@@ -31,7 +31,7 @@ neighborhood filter of a point:
   title: 'Neighborhood filter of a point'
   decl: '𝓝 x'
   comment: 'In mathlib, the neighborhood filter of a point x is denoted by 𝓝 x'
-  comment2: 'In Bourbaki, this is written as B(x)'
+  comment2: 'In Bourbaki, this is written as \mathfrak{B}(x)'
 neighborhood filter of a set:
   title: 'Neighborhood filter of a set'
   decl: '𝓝ˢ B'
