@@ -17,25 +17,29 @@ homeomorphism:
   reference: 'Definition 1.3'
 neighborhood of a point:
   title: 'Neighborhood of a point'
-  decl: 'A ∈ 𝓝 x'
+  decl: 'nhds'
+  spelling: 'A ∈ 𝓝 x'
   comment: 'In mathlib, neighborhoods of points do not have their own predicate. A set A is a
-    neighborhood of a point x if it lies in the neighborhood filter 𝓝 x.
+    neighborhood of a point x if it lies in the neighborhood filter 𝓝 x.'
   reference: 'Definition 1.4'
 neighborhood of a set:
   title: 'Neighborhood of a set'
-  decl: 'A ∈ 𝓝ˢ B'
+  decl: 'nhdsSet'
+  spelling: 'A ∈ 𝓝ˢ B'
   comment: 'In mathlib, neighborhoods of sets do not have their own predicate. A set A is a
     neighborhood of a set B if it lies in the neighborhood-of-sets filter 𝓝ˢ B'
   reference: 'Definition 1.4'
 neighborhood filter of a point:
   title: 'Neighborhood filter of a point'
-  decl: '𝓝 x'
-  comment: 'In mathlib, the neighborhood filter of a point x is denoted by 𝓝 x'
+  decl: 'nhds'
+  comment: 'In mathlib, the neighborhood filter of a point x is denoted by nhds x, with custom
+    notation 𝓝 x'
   comment2: 'In Bourbaki, this is written as \mathfrak{B}(x)'
 neighborhood filter of a set:
   title: 'Neighborhood filter of a set'
-  decl: '𝓝ˢ B'
-  comment: 'In mathlib, the neighborhood-of-sets filter of a set B is denoted by 𝓝ˢ B'
+  decl: 'nhdsSet'
+  comment: 'In mathlib, the neighborhood-of-sets filter of a set B is denoted by nhdsSet B,
+    with custom notation 𝓝ˢ B'
 ## Results, how should we handle naming of these?
 proposition 1:
   title: 'Proposition 1'
