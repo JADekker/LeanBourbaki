@@ -1,4 +1,4 @@
-import Mathlib.Topology.Homeomorph
+import Mathlib.Topology.Order
 
 /-!
 # Chapter 1
@@ -13,4 +13,3 @@ Kyle's message for more context: https://leanprover.zulipchat.com/#narrow/stream
 -/
 
 def hello := "world"
-#check TopologicalSpace
